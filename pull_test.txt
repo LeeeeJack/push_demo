@@ -1,2 +1,6 @@
 develop on github
+<<<<<<< HEAD
 develop on desktop
+=======
+twice modified on github
+>>>>>>> 0aba078f966444840f4c3fcbee2d1a753639e53b
