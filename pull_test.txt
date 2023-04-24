@@ -1,6 +1,6 @@
 develop on github
-<<<<<<< HEAD
 develop on desktop
-=======
 twice modified on github
->>>>>>> 0aba078f966444840f4c3fcbee2d1a753639e53b
+
+白爛no，檔案修改過後要自己去改，改好再重新push、pull
+
